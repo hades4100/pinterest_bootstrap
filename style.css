@@ -1,0 +1,29 @@
+.ph {
+  border: 1px solid white;
+}
+body {
+  background-color: beige;
+}
+[class*="photo"] {
+  background-color: brown;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid brown;
+}
+
+.text {
+  text-align: center;
+}
+.figure-caption {
+  background-color: wheat;
+  color: black;
+  font-weight: bold;
+  font-size: large;
+  padding: 10px;
+}
+.footer {
+  background-color: wheat;
+  min-height: 50px;
+  text-align: center;
+  border: solid brown;
+}
